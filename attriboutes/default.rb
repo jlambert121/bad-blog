@@ -1,0 +1,8 @@
+node.default['wordpress']['salt']['auth'] = 'S;awk6PUTK]z{lYaiZOl5%gXAe+U`.DUNr|wBsYM_t=$6Y2>.(?>ml#+5dqUeZeR'
+node.default['wordpress']['salt']['secure_auth'] = 'x{mT$.ag+v3zlY4w-%j):ZgWFs|<Su?bLcSB]Go 0]xT(7oU>8DUA{:ucxjV+F+$'
+node.default['wordpress']['salt']['logged_in'] = 'Ymg^,z|YLz3;#zV<!Vnw!!%N)Sg)JT3.U?rn-7Y<#qz6]R2-W/ih#,ltQqZy@mSy'
+node.default['wordpress']['salt']['nonce'] = 'r*M@ZU+Jj.R !j2flx#KeYyxo0x+j#sDPQ,arF)Lmq_]BAF:a-W+`(K~+0sY7c]5'
+node.default['wordpress']['key']['auth'] = '{+l%:(WO`mI5G 0LcFSTVbIdLo (R%Lf]<]A9^OUI2y?#b:n_f&~:$Bd#$~4-ppE'
+node.default['wordpress']['key']['secure_auth'] = '{v-NSe4=DJ/_4<}6MXiqi[#ANq -n0yA~km^lO|km-srQEEHBJO+q_w-@)JbL|@-'
+node.default['wordpress']['salt']['logged_in'] = 'm%;xfm.$Pyss&F+E]@pH;i,j)lI_,^R-Kxn>A}g?ThR?#+m-E$=@+h:=U::S,H4c'
+node.default['wordpress']['salt']['nonce'] = 'r*M@ZU+Jj.R !j2flx#KeYyxo0x+j#sDPQ,arF)Lmq_]BAF:a-W+`(K~+0sY7c]5'
